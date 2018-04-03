@@ -13,7 +13,7 @@ Using a relational database, the schema includes the following attributes:
 
 The ID, name and SKU should be unique for each product.
 
-## Rakuten HW Project
+## Project
 ** Single application with React, PostgreSQL, Express.js, Node.js. The application consist of an App Component and a Advertisers Component that with the help of ReactTable https://react-table.js.org/#/story/readme renders
 a table of the products from a product.csv file. I set a limit on the the table of only 500 items to be returned.
 
